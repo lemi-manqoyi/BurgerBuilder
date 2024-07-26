@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MSTestBurgerBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfc6a9abf94f6beba5f020d89a50fb9a35c19e37")]
 [assembly: System.Reflection.AssemblyProductAttribute("MSTestBurgerBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MSTestBurgerBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

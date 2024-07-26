@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\MSTestBurgerBuilder\\MSTestBurgerBuilder.csproj": {}
+    "C:\\Documents\\Visual Studio 2022\\MSTestBurgerBuilder\\MSTestBurgerBuilder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\BurgerBuilder\\BurgerBuilder.csproj": {
+    "C:\\Documents\\Visual Studio 2022\\BurgerBuilder\\BurgerBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\BurgerBuilder\\BurgerBuilder.csproj",
+        "projectUniqueName": "C:\\Documents\\Visual Studio 2022\\BurgerBuilder\\BurgerBuilder.csproj",
         "projectName": "BurgerBuilder",
-        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\BurgerBuilder\\BurgerBuilder.csproj",
-        "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\BurgerBuilder\\obj\\",
+        "projectPath": "C:\\Documents\\Visual Studio 2022\\BurgerBuilder\\BurgerBuilder.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Documents\\Visual Studio 2022\\BurgerBuilder\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lab_services_student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,21 +65,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\MSTestBurgerBuilder\\MSTestBurgerBuilder.csproj": {
+    "C:\\Documents\\Visual Studio 2022\\MSTestBurgerBuilder\\MSTestBurgerBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\MSTestBurgerBuilder\\MSTestBurgerBuilder.csproj",
+        "projectUniqueName": "C:\\Documents\\Visual Studio 2022\\MSTestBurgerBuilder\\MSTestBurgerBuilder.csproj",
         "projectName": "MSTestBurgerBuilder",
-        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\MSTestBurgerBuilder\\MSTestBurgerBuilder.csproj",
-        "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\MSTestBurgerBuilder\\obj\\",
+        "projectPath": "C:\\Documents\\Visual Studio 2022\\MSTestBurgerBuilder\\MSTestBurgerBuilder.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Documents\\Visual Studio 2022\\MSTestBurgerBuilder\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lab_services_student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\BurgerBuilder\\BurgerBuilder.csproj": {
-                "projectPath": "C:\\Users\\lab_services_student\\Desktop\\PROG3A\\BurgerBuilder\\BurgerBuilder.csproj"
+              "C:\\Documents\\Visual Studio 2022\\BurgerBuilder\\BurgerBuilder.csproj": {
+                "projectPath": "C:\\Documents\\Visual Studio 2022\\BurgerBuilder\\BurgerBuilder.csproj"
               }
             }
           }
@@ -144,7 +152,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
